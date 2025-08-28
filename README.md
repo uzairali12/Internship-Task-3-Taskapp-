@@ -48,4 +48,5 @@ The design is built using **HTML, CSS, and JavaScript**, with support for **Font
 ## 📌 How to Run
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/taskflow-landing-page.git
+   git clone https://github.com/uzairali12/Internship-Task-3-Taskapp-.git
+
